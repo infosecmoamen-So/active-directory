@@ -29,7 +29,7 @@ Acknowledge the live active environment instance allocation provisioning the sec
 <br />
 <br />
 Initiate the secure RDP interface to establish an operational graphic workspace with the target Windows operating system: <br/>
-<img src="https://i.imgur.com/9DgYz51.png" height="80%" width="80%" alt="Windows OS Workspace"/>
+<img src="https://i.imgur.com/xNdcIoX.png" height="80%" width="80%" alt="Windows OS Workspace"/>
 <br />
 <br />
 Open the Windows Start Menu, navigate to the command line utility ecosystem, and execute Windows PowerShell with administrative privileges ("Run as Administrator"): <br/>
