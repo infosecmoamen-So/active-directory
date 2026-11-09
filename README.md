@@ -1,7 +1,5 @@
 <h1>Centralized Identity & Access Management (IAM) via Active Directory</h1>
 
-### [YouTube Demonstration](https://youtu.be/)
-
 <h2>Description</h2>
 This project demonstrates the deployment, orchestration, and compliance governance of an enterprise-level centralized Identity and Access Management (IAM) framework using Windows Active Directory Domain Services (AD DS). The practical workflow simulates core duties within a systems administration and security infrastructure role, focusing on automated directory instantiation via elevated PowerShell frameworks, user identity lifecycle governance under strict password hygiene compliance, Role-Based Access Control (RBAC) modeling via structural group nesting, and the mitigation of privilege creep (identity drift). Furthermore, it addresses enterprise endpoint control by deploying, linking, and enforcing specific Group Policy Objects (GPOs) targeted at Organizational Units (OUs) to maintain a secure configuration baseline across corporate network domains in accordance with the Principle of Least Privilege (PoLP).
 <br />
